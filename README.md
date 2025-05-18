@@ -1,6 +1,3 @@
-# Programming-Humanity
-Integrated Programmes in Humane Studies 200 class projects
-
 # Energy Conversation on Alternative Energy
 ### World Perspective vs Bangladesh
 
